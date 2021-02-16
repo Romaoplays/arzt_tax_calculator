@@ -1,7 +1,3 @@
-# TODO
-# Add withdraw ammount at X age
-
-
 import csv
 
 import matplotlib.pyplot as plt
